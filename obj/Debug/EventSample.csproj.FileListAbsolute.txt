@@ -1,0 +1,7 @@
+C:\Users\Sami B\Desktop\NewRepo\EventS\bin\Debug\EventS.exe.config
+C:\Users\Sami B\Desktop\NewRepo\EventS\bin\Debug\EventS.exe
+C:\Users\Sami B\Desktop\NewRepo\EventS\bin\Debug\EventS.pdb
+C:\Users\Sami B\Desktop\NewRepo\EventS\obj\Debug\EventSample.csprojAssemblyReference.cache
+C:\Users\Sami B\Desktop\NewRepo\EventS\obj\Debug\EventSample.csproj.CoreCompileInputs.cache
+C:\Users\Sami B\Desktop\NewRepo\EventS\obj\Debug\EventS.exe
+C:\Users\Sami B\Desktop\NewRepo\EventS\obj\Debug\EventS.pdb
